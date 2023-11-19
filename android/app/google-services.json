@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902556655860",
+    "project_id": "mynotes-harry-tut",
+    "storage_bucket": "mynotes-harry-tut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902556655860:android:647e85c9ad073d7d2e7ea1",
+        "android_client_info": {
+          "package_name": "com.hmcalister.my_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEcF8OjlYs67373TR0LLBCkMVUT9bCGug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
